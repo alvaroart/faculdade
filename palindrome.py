@@ -1,2 +1,2 @@
-palavra = input('Palavra: ')
+palavra = input('/tPalavra: ')
 print (palavra[::-1])
