@@ -1,4 +1,7 @@
-b=0
-while b < 5:
+"""teste de contador-mostrando a saída"""
+b=5
+a=0
+while b > 5:
     print (b)
-    b=b+1
+    a=b-1
+b=b*a
