@@ -1,0 +1,5 @@
+num= int (input())
+sal= float (input())
+horas= float (input())
+sal=(sal*horas)
+print("NUMBER = %d\nSALARY = U$ %2.2f" %(num, sal))
